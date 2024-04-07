@@ -1,4 +1,4 @@
-<h1>Easy Shpping</h1>
+<h1 aling="center">Easy Shpping</h1>
 
   <br>
   <br>
@@ -12,4 +12,6 @@
   <br>
   
 
-<img src="https://github.com/davisantos0101/Easy-Shopping/blob/main/assets/easy-shop-computador.png?raw=true" alt="easy-shop-tela-pc"/> Referencia na tela de um Computado
+<img src="https://github.com/davisantos0101/Easy-Shopping/blob/main/assets/easy-shop-computador.png?raw=true" alt="easy-shop-tela-pc" width="500px"/>
+
+<img src="https://github.com/davisantos0101/Easy-Shopping/blob/main/assets/easy-shop-mobile.png?raw=true" alt="easy-shop-tela-mobilie" width="250px" height="500px"/>
